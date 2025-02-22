@@ -1,6 +1,6 @@
 🧠 **Memory Recall Plugin**
 
-Use this plugin alongside the *Save to Pinecone* extension. It allows AI to remember past conversations! 🚀 When chats get long or the AI forgets details, this plugin retrieves relevant chat history from your Pinecone database. 🗂️
+Use this plugin alongside the [Save to Pinecone](https://github.com/Btran1291/TMExtension-SavetoPinecone/) extension. It allows AI to remember past conversations! 🚀 When chats get long or the AI forgets details, this plugin retrieves relevant chat history from your Pinecone database. 🗂️
 
 **Setup:**
 
